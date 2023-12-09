@@ -44,5 +44,7 @@ npm run start
   password: "",
   database: "",
 ```
-![image](https://github.com/Mitushi-23/accredian_frontend/assets/83106116/e1e739d4-4d96-463c-b43c-6618372a2971)
-![image](https://github.com/Mitushi-23/accredian_frontend/assets/83106116/5ad77b7d-3cfb-4958-bf3a-208eebc7edaa)
+![image](https://github.com/Mitushi-23/accredian_frontend/assets/83106116/f08b94bf-ceb6-4187-b1ac-4fceacb0167f)
+![image](https://github.com/Mitushi-23/accredian_frontend/assets/83106116/2f87f31a-23a6-4f40-9823-70e94015d610)
+![image](https://github.com/Mitushi-23/accredian_frontend/assets/83106116/9be2e97f-42f8-4a81-a8d0-36f3da382c20)
+
